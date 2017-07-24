@@ -1,0 +1,32 @@
+body{
+background: blue;
+
+}
+
+div{
+	
+	height: 100px;
+	width: 100px;
+	border: 1px solid black; 
+	margin: 25px;
+
+}
+
+div.Transparencia{
+	background: rgba(150,45,50,0.7);
+}
+div.reservadas{
+	background: lime;
+}
+div.luzRGB{
+	background: rgb(150,0,0);
+}
+div.hex{
+	background: #643005;
+}
+div.porcentual{
+	background: rgb(50%,20%,75%);
+}
+div.hsl{
+	background: hsl(120,50%,20%);
+}
