@@ -3,8 +3,7 @@ background: blue;
 
 }
 
-div{
-	
+div{	
 	height: 100px;
 	width: 100px;
 	border: 1px solid black; 
@@ -13,7 +12,7 @@ div{
 }
 
 div.Transparencia{
-	background: rgba(150,45,50,0.7);
+	background: rgba(120,45,50,0.7);
 }
 div.reservadas{
 	background: lime;
@@ -22,7 +21,7 @@ div.luzRGB{
 	background: rgb(150,0,0);
 }
 div.hex{
-	background: #643005;
+	background: #633005;
 }
 div.porcentual{
 	background: rgb(50%,20%,75%);
