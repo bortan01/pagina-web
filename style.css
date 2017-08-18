@@ -298,3 +298,7 @@ input.button {
     background: inherit;
     color: #7BA813;
 }
+
+ol>li{
+    color: #ffffff;
+}
