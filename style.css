@@ -1,5 +1,5 @@
 body {
-    background: none repeat scroll #756D6D;
+    background: none repeat scroll #424242;#756D6D
     color: #30FF00;
     font: 78%/1.6em Arial,Sans-Serif;
     margin: 5px 0;
@@ -64,6 +64,7 @@ p {
     color: #ccc;
     margin: 0 0 5px;
     padding: 0;
+    text-align: justify;
 }
 hr {
     background-color: #555;
@@ -129,6 +130,12 @@ li a:hover {
 }
 img {
     border: 0 none;
+
+}
+figure > img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .content {
     color: #333333;
